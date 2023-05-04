@@ -1,4 +1,7 @@
-
+/*Escribir un programa que dada una lista de números enteros, escribir una función que:
+a) Devuelva una lista con todos los que sean primos.
+b) Devuelva la sumatoria de los valores
+c) Devuelva el promedio de los valores.*/
 
 public class Ejer2_Arreglos {
 
